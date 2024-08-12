@@ -9,3 +9,5 @@ output berupa file .apk, dapat di instal dan dijalan kan dengan spesifikasi mini
 - Mendukung ARCore (untuk fitur Augmented Reality markerless)
 
 Aplikasi ini dibuat dengan Unity 2021.3.27f1 dengan SDK Vuforia 10.25.4.
+
+untuk file .apk dapat di unduh pada <text ahref="https://drive.google.com/file/d/1EisotyqwFWorMlHRTI7Rw06hFASBnT1K/view?usp=sharing">disini</>
